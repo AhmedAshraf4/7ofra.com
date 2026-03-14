@@ -90,7 +90,7 @@ Government or authorized users can:
 
 ## Tech Stack
 
-The public repository structure strongly suggests the project is built with **Laravel**, using **PHP** and **Blade templates**. The repo shows `app/Models`, controllers under `Http/Controllers`, `database/migrations`, `resources/views`, and `routes`, and GitHub lists the languages as Blade and PHP. citeturn814841view0
+The public repository structure strongly suggests the project is built with **Laravel**, using **PHP** and **Blade templates**. The repo shows `app/Models`, controllers under `Http/Controllers`, `database/migrations`, `resources/views`, and `routes`, and GitHub lists the languages as Blade and PHP.
 
 ### Backend
 - PHP
@@ -112,7 +112,7 @@ The public repository structure strongly suggests the project is built with **La
 
 ## Project Structure
 
-The repository currently exposes the following main folders and files on GitHub: `Http/Controllers`, `app/Models`, `database/migrations`, `public/img`, `resources/views`, `routes`, and `README.md`. citeturn814841view0
+The repository currently exposes the following main folders and files on GitHub: `Http/Controllers`, `app/Models`, `database/migrations`, `public/img`, `resources/views`, `routes`, and `README.md`.
 
 ```text
 7ofra.com/
