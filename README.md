@@ -2,8 +2,6 @@
 
 **7ofra.com** is a Laravel-based web application for reporting and visualizing **road bumps and roadblocks** on a map. It combines **community-submitted road hazard reports** with an **official news section** managed by government users, helping drivers stay informed about road conditions before and during trips.
 
-> This README is written from the public repository structure and the existing project description visible on GitHub. The current repo description says the platform helps users detect road bumps on a map, add bumps to alert others, and includes a government-controlled news section for roadblocks. citeturn814841view0
-
 ---
 
 ## Table of Contents
